@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Combating the Covid-19 Pandemic in NW Syria
 
-You can use the [editor on GitHub](https://github.com/jordan-klein/req-550-Syria/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+More than 1 billion people around the world live in slums, shantytowns, and other informal settlements. While controling Covid-19 is challenging in all of these communities, it is especially so in informal Internally Displaced Persons camps in active conflict regions like Northwestern Syria. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vaccines are scarce, testing capacity is limited, crowded living conditions make social distancing a challenge, and their needs are often neglected by policymakers as the [pandemic continues to surge](https://reliefweb.int/report/syrian-arab-republic/second-surge-covid-19-cases-northwest-syria-likely-cases-doubled-month). 
 
-### Markdown
+But we can't leave these communities on their own. It is imperative that we empower them to implement feasible, communnity-led non-pharmaceutical interventions based on clear scientific evidence. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We, an international team of scientists, designers, and humanitarians, through collaboration with local stakeholders have researched the best interventions and written up our findings in a ***[scientific paper](https://www.medrxiv.org/content/10.1101/2020.08.26.20181990v3)***, produced a ***[report for policymakers](https://github.com/crowdfightcovid19/req-550-Syria/blob/master/covid-in-NW-Syria-gh-pages/COVID_19_SYRIA_Policy_Report_Pax_Syriana.pdf)*** outlining our recommendations, and put out a ***[press release](https://raw.githubusercontent.com/crowdfightcovid19/req-550-Syria/master/covid-in-NW-Syria-gh-pages/Syria%20-%20Press%20release%20-%20Pax%20Syriana.pdf)*** announcing the results of this collaboration.
 
-```markdown
-Syntax highlighted code block
+![image](https://raw.githubusercontent.com/crowdfightcovid19/req-550-Syria/master/covid-in-NW-Syria-gh-pages/media%20(12).jpg)
+![image](https://raw.githubusercontent.com/crowdfightcovid19/req-550-Syria/master/covid-in-NW-Syria-gh-pages/media%20(13).jpg)
+![image](https://raw.githubusercontent.com/crowdfightcovid19/req-550-Syria/master/covid-in-NW-Syria-gh-pages/media%20(3).jpg)
+![image](https://raw.githubusercontent.com/crowdfightcovid19/req-550-Syria/master/covid-in-NW-Syria-gh-pages/Wounded%20elderly%20in%20North%20Informal%20Camp.jpg)
+![image](https://raw.githubusercontent.com/crowdfightcovid19/req-550-Syria/master/covid-in-NW-Syria-gh-pages/Covid%20Camp%20Syria.jpg)
+![image](https://raw.githubusercontent.com/crowdfightcovid19/req-550-Syria/master/covid-in-NW-Syria-gh-pages/Bathing%20in%20an%20informal%20camp.jpg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### We thank the following individuals for contributing to this project
 
-1. Numbered
-2. List
+#### Scientific Researchers
 
-**Bold** and _Italic_ and `Code` text
+* Alberto Pascual-García, ETH-Zürich and crowdfight 
+* Jordan Klein, Princeton University 
+* Jennifer Villers, Princeton University 
+* Eduard Campillo-Funollet, University of Sussex, UK. 
+* Judith Bouman, ETH-Zürich 
 
-[Link](url) and ![Image](src)
-```
+#### Pax Syriana Foundation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Chamsy Sarkis, Chairman Pax Syriana Foundation 
+* Jean Jaques Py, IT Pax Syriana Foundation
 
-### Jekyll Themes
+#### Public dissemination
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jordan-klein/req-550-Syria/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Megan Naidoo, University of Stellenbosch.
+* Juan A. Garcia, French National Institute of Health and Medical Research.
+* Salma Amzil, designer, Canada.
+* Om Chabra, assistance edition, USA.
+* Cynthia A. Shelton, designer, USA.
